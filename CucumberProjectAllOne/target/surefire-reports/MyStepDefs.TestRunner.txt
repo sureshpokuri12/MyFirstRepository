@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: MyStepDefs.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.95 s -- in MyStepDefs.TestRunner

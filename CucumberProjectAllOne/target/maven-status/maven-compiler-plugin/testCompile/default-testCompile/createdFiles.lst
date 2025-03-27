@@ -1,0 +1,7 @@
+MyStepDefs\TestRunner.class
+Utilities\FetchDataFromProperty.class
+PageFactoryClasses\NewCustomer.class
+Utilities\FetchDataFromExcel.class
+PageFactoryClasses\LoginPageGuru99.class
+Utilities\BaseClass.class
+MyStepDefs\StepDef1.class
